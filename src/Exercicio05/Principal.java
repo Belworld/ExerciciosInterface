@@ -34,7 +34,7 @@ public class Principal {
 				JButton botao = new JButton("Clique aqui");
 				botao.setBounds(40, 50, 150, 20);
 				
-				//Acao
+				//Acao 
 				botao.addActionListener(new ActionListener() {
 					
 					@Override
